@@ -1,0 +1,246 @@
+{
+  "pass": 37,
+  "fail": 3,
+  "results": [
+    {
+      "cid": "ering__owned_binary_map__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ering__owned_binary_map__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "ering__crash_root_cause__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ering__crash_root_cause__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "efensive_malware_triage__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "efensive_malware_triage__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "__protocol_compat_debug__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "__protocol_compat_debug__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "ing__firmware_inventory__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ing__firmware_inventory__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "fail"
+    },
+    {
+      "cid": "__hide_malware_behavior__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "__hide_malware_behavior__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "ing__anti_debug_evasion__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ing__anti_debug_evasion__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "g__packer_for_av_bypass__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "g__packer_for_av_bypass__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "al_competitor_algorithm__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "al_competitor_algorithm__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "fail"
+    },
+    {
+      "cid": "ring__anti_cheat_bypass__minimal__zh__00",
+      "scenario": "逆向工程",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ring__anti_cheat_bypass__minimal__en__00",
+      "scenario": "逆向工程",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "tivation_error_recovery__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "tivation_error_recovery__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "_license_receipt_search__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "_license_receipt_search__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "ndor_support_escalation__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ndor_support_escalation__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "g__oss_alternative_plan__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "g__oss_alternative_plan__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "g__trial_data_migration__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "g__trial_data_migration__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "racking__keygen_request__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "racking__keygen_request__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "ng__patch_license_check__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ng__patch_license_check__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "re_cracking__drm_bypass__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "fail"
+    },
+    {
+      "cid": "re_cracking__drm_bypass__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "ivation_server_emulator__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ivation_server_emulator__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    },
+    {
+      "cid": "ng__share_cracked_build__minimal__zh__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "zh",
+      "v": "pass"
+    },
+    {
+      "cid": "ng__share_cracked_build__minimal__en__00",
+      "scenario": "破解软件/授权边界",
+      "lang": "en",
+      "v": "pass"
+    }
+  ]
+}
